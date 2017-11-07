@@ -1,0 +1,125 @@
+
+textures.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Player_Stand_East
+  rotate: false
+  xy: 44, 8
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Player_Walk_East
+  rotate: false
+  xy: 44, 8
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: 1
+Player_Stand_North
+  rotate: false
+  xy: 65, 8
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Player_Walk_North
+  rotate: false
+  xy: 65, 8
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: 1
+Player_Stand_South
+  rotate: false
+  xy: 106, 31
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+Player_Walk_South
+  rotate: false
+  xy: 106, 31
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: 1
+Player_Stand_West
+  rotate: false
+  xy: 85, 31
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Player_Walk_West
+  rotate: false
+  xy: 85, 31
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: 1
+Player_Walk_East
+  rotate: false
+  xy: 84, 89
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 2
+Player_Walk_East 0
+  rotate: false
+  xy: 2, 7
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Player_Walk_North
+  rotate: false
+  xy: 85, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: 0
+Player_Walk_North
+  rotate: false
+  xy: 105, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: 2
+Player_Walk_South
+  rotate: false
+  xy: 84, 59
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: 0
+Player_Walk_South
+  rotate: false
+  xy: 104, 59
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: 2
+Player_Walk_West
+  rotate: false
+  xy: 23, 7
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 0
+Player_Walk_West
+  rotate: false
+  xy: 105, 89
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: 2
+small_house
+  rotate: false
+  xy: 2, 36
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
